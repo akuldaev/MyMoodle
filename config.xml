@@ -5,7 +5,8 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "35100"
         android-versionCode="35100"
-        version   = "3.5.1">
+        version   = "3.5.1"
+        siteurl= "https://ffaelearning.ru/">
     <name>Moodle</name>
 
     <description>
