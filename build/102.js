@@ -19,7 +19,7 @@ var _ngx_translate_core = __webpack_require__(5);
 var directives_module = __webpack_require__(30);
 
 // EXTERNAL MODULE: ./src/addon/mod/chat/components/components.module.ts
-var components_module = __webpack_require__(667);
+var components_module = __webpack_require__(666);
 
 // EXTERNAL MODULE: ./src/addon/mod/chat/components/index/index.ts
 var index = __webpack_require__(437);
@@ -270,7 +270,7 @@ var translate_pipe = __webpack_require__(27);
 var chat = __webpack_require__(333);
 
 // EXTERNAL MODULE: ./src/providers/utils/time.ts
-var time = __webpack_require__(40);
+var time = __webpack_require__(42);
 
 // EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/nav-params.js
 var nav_params = __webpack_require__(57);

@@ -217,10 +217,6 @@ var discussion_AddonMessagesDiscussionPage = /** @class */ (function () {
                 _this.loaded = true;
             });
         });
-        // Recalculate footer position when keyboard is shown or hidden.
-        this.keyboardObserver = this.eventsProvider.on(events["a" /* CoreEventsProvider */].KEYBOARD_CHANGE, function (isOn) {
-            _this.content.resize();
-        });
     };
     /**
      * Runs when the page has fully entered and is now the active page.
@@ -690,7 +686,6 @@ var discussion_AddonMessagesDiscussionPage = /** @class */ (function () {
         // Unset again, just in case.
         this.unsetPolling();
         this.syncObserver && this.syncObserver.off();
-        this.keyboardObserver && this.keyboardObserver.off();
         this.viewDestroyed = true;
     };
     __decorate([
@@ -806,7 +801,7 @@ var course_picker_menu_popover_ngfactory = __webpack_require__(1297);
 var recaptchamodal_ngfactory = __webpack_require__(1298);
 
 // EXTERNAL MODULE: ./node_modules/ionic-angular/components/chip/chip.js
-var chip = __webpack_require__(683);
+var chip = __webpack_require__(682);
 
 // EXTERNAL MODULE: ./node_modules/ionic-angular/config/config.js
 var config = __webpack_require__(6);

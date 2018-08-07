@@ -19,7 +19,7 @@ var _ngx_translate_core = __webpack_require__(5);
 var directives_module = __webpack_require__(30);
 
 // EXTERNAL MODULE: ./src/addon/mod/quiz/components/components.module.ts
-var components_module = __webpack_require__(676);
+var components_module = __webpack_require__(675);
 
 // EXTERNAL MODULE: ./src/addon/mod/quiz/components/index/index.ts
 var index = __webpack_require__(451);

@@ -34,7 +34,7 @@ var sync = __webpack_require__(81);
 var dom = __webpack_require__(3);
 
 // EXTERNAL MODULE: ./src/providers/utils/time.ts
-var time = __webpack_require__(40);
+var time = __webpack_require__(42);
 
 // EXTERNAL MODULE: ./src/addon/mod/scorm/providers/scorm.ts
 var providers_scorm = __webpack_require__(181);
@@ -859,7 +859,7 @@ var data_model_12_AddonModScormDataModel12 = /** @class */ (function () {
 
 //# sourceMappingURL=data-model-12.js.map
 // EXTERNAL MODULE: ./src/addon/mod/scorm/components/toc-popover/toc-popover.ts
-var toc_popover = __webpack_require__(686);
+var toc_popover = __webpack_require__(685);
 
 // CONCATENATED MODULE: ./src/addon/mod/scorm/pages/player/player.ts
 // (C) Copyright 2015 Martin Dougiamas
@@ -1379,7 +1379,7 @@ var iframe = __webpack_require__(276);
 var logger = __webpack_require__(4);
 
 // EXTERNAL MODULE: ./src/providers/file.ts
-var file = __webpack_require__(42);
+var file = __webpack_require__(41);
 
 // EXTERNAL MODULE: ./src/providers/utils/url.ts
 var url = __webpack_require__(23);

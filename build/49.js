@@ -13,7 +13,7 @@ var core = __webpack_require__(0);
 var ionic_angular = __webpack_require__(9);
 
 // EXTERNAL MODULE: ./node_modules/@ionic-native/splash-screen/index.js
-var splash_screen = __webpack_require__(669);
+var splash_screen = __webpack_require__(668);
 
 // EXTERNAL MODULE: ./src/providers/app.ts
 var app = __webpack_require__(10);

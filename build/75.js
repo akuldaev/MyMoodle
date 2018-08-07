@@ -19,7 +19,7 @@ var _ngx_translate_core = __webpack_require__(5);
 var directives_module = __webpack_require__(30);
 
 // EXTERNAL MODULE: ./src/addon/mod/resource/components/components.module.ts
-var components_module = __webpack_require__(677);
+var components_module = __webpack_require__(676);
 
 // EXTERNAL MODULE: ./src/addon/mod/resource/components/index/index.ts
 var index = __webpack_require__(452);

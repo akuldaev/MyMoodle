@@ -19,7 +19,7 @@ var _ngx_translate_core = __webpack_require__(5);
 var directives_module = __webpack_require__(30);
 
 // EXTERNAL MODULE: ./src/addon/mod/lesson/components/components.module.ts
-var components_module = __webpack_require__(673);
+var components_module = __webpack_require__(672);
 
 // EXTERNAL MODULE: ./src/addon/mod/lesson/components/index/index.ts
 var index = __webpack_require__(448);
@@ -296,7 +296,7 @@ var lesson_sync = __webpack_require__(278);
 var prefetch_handler = __webpack_require__(286);
 
 // EXTERNAL MODULE: ./src/providers/utils/time.ts
-var time = __webpack_require__(40);
+var time = __webpack_require__(42);
 
 // EXTERNAL MODULE: ./src/core/user/providers/user.ts
 var user = __webpack_require__(43);
