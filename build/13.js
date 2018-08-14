@@ -1,6 +1,6 @@
 webpackJsonp([13],{
 
-/***/ 1790:
+/***/ 1791:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -25,7 +25,7 @@ var sites = __webpack_require__(1);
 var messages = __webpack_require__(163);
 
 // EXTERNAL MODULE: ./src/addon/messages/providers/sync.ts
-var sync = __webpack_require__(433);
+var sync = __webpack_require__(435);
 
 // EXTERNAL MODULE: ./src/core/user/providers/user.ts
 var user = __webpack_require__(43);
