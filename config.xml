@@ -60,7 +60,6 @@
     <preference name="SplashMaintainAspectRatio" value="true" />
     <preference name="SplashScreenDelay" value="15000" />
 	<preference name="siteUrl" value="https://ffaelearning.ru"/>
-	<preference name="default_lang" value="ru" />
 	
 
     <feature name="StatusBar">
