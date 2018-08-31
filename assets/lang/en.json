@@ -1035,6 +1035,7 @@
     "core.courses.categories": "Категории курсов",
     "core.courses.confirmselfenrol": "Вы уверены, что хотите записать себя на этот курс?",
     "core.courses.courses": "Курсы",
+	"core.courses.courseoverview": "Ваши курсы",
     "core.courses.enrolme": "Записаться на курс",
     "core.courses.errorloadcategories": "Во время загрузки категорий произошла ошибка.",
     "core.courses.errorloadcourses": "При загрузке курсов произошла ошибка.",
